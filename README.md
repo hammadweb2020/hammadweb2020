@@ -16,18 +16,13 @@ A Full Stack Developer professional, with 10+ years of work experience in the Mi
 ### Connect with me:
 
 [<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [whatsapp]: https://wa.me/923468650608
-[behance]: https://www.behance.net/hammadweb
 [gmail]: mailto:hammadweb2020@gmail.com
 [linkedin]: https://www.linkedin.com/in/muhammad-hammad-siddique
-[instagram]: https://www.instagram.com/hammad.siddique7
-[facebook]: https://fb.com/hammadsiddique07
+
 <br />
 
 
