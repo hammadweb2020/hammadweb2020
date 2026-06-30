@@ -2,7 +2,7 @@
 
 #### Full Stack Developer
 
-A Full Stack Developer professional, with 10+ years of work experience in the Middle East and Europe. I’ve been working and collaborating with top Advertising agencies and clients directly.
+A Full Stack Developer professional, with 10+ years of work experience in the Middle East, USA and Europe. I’ve been working and collaborating with top Advertising and IT Companies and clients directly.
 
 
 ### Languages and Tools:
